@@ -17,7 +17,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is a test of Github Pages integration with AWS Lambda. PRODUCTION BRANCH
+          This is a test of Github Pages integration with AWS Lambda. PRODUCTION BRANCH, hidden sourcemap
         </p>
         <a
           className="App-link"
